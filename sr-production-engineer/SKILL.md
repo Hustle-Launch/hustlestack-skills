@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-production-engineer
 description: Production development workflow with TODO tracking, Graphite PRs, GitHub issues, Vercel deploy checks, and SMS notifications. Use when starting a new task, fixing bugs, implementing features, or any development work that needs tracked progress and code review.
 ---

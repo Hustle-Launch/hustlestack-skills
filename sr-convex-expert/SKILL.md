@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-convex-expert
 description: Senior-level Convex expertise across all platforms. Use when designing schemas, implementing queries/mutations/actions, deploying to production, integrating with Next.js/React Native/Swift, or debugging Convex issues. Covers real-time subscriptions, auth patterns, file storage, migrations, and the critical deployment workflow.
 env:

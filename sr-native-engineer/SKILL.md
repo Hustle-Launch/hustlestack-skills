@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-native-engineer
 description: Build production-grade React Native apps with Expo, NativeWind, and react-strict-dom. Use when creating mobile/tablet apps, cross-platform experiences, or adapting web designs for native. Handles iOS, Android, and macOS targets with proper platform-specific code.
 ---

@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-swift-architect
 description: Architecture-first workflow for native Apple apps. Covers AppKit, UIKit, SwiftUI, multi-window apps, document-based apps, background services, and cross-platform Swift code sharing.
 ---

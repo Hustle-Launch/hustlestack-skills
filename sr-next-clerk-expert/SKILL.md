@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-next-clerk-expert
 description: Senior-level Clerk authentication expertise for Next.js 15/16+ applications. Use when implementing auth, protecting routes, fixing auth errors (500s, handshake redirects, middleware failures), integrating with Convex/Stripe, or debugging Clerk issues. Covers proxy.ts patterns, route groups, client vs server auth, and the 12 Commandments that prevent common disasters.
 env:

@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-native-architect
 description: Architecture-first workflow for React Native and Expo apps. Platform decisions, state management, navigation patterns, and offline-first architecture for production mobile apps.
 ---

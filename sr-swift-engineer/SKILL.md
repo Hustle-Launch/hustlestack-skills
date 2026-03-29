@@ -1,6 +1,4 @@
 ---
-
-> **Global Standards:** See [../STANDARDS.md](../STANDARDS.md) for icon library and other cross-platform standards.
 name: sr-swift-engineer
 description: Build production-grade macOS and iOS applications using AppKit, UIKit, and modern Swift. Emphasizes native frameworks over SwiftUI for maximum control and long-term stability.
 ---

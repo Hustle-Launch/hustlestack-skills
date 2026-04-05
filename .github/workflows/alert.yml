@@ -1,0 +1,15 @@
+name: Alert on New Issues
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send alert
+        run: |
+          echo "New issue opened: ${{ github.event.issue.title }}"
+          echo "URL: ${{ github.event.issue.html_url }}"
+        # Add any specific alerting mechanism here (e.g., Slack, email, etc.)

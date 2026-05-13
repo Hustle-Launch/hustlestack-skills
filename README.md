@@ -60,6 +60,10 @@ cp skills/templates/PLAN.md ./PLAN.md
 cp skills/templates/CHANGELOG.md ./CHANGELOG.md
 ```
 
+## Guides
+
+- [Next.js tsgo + Biome Migration Guide](./docs/nextjs-tsgo-biome-migration.md) — replace ESLint/TypeScript checker habits with a Bun-first `tsgo` and Biome gate.
+
 ## Installation
 
 ### Claude Code (Recommended)

@@ -63,6 +63,9 @@ cp skills/templates/CHANGELOG.md ./CHANGELOG.md
 ## Guides
 
 - [Next.js tsgo + Biome Migration Guide](./docs/nextjs-tsgo-biome-migration.md) — replace ESLint/TypeScript checker habits with a Bun-first `tsgo` and Biome gate.
+- [JS Project Standards Implementation Guide](./docs/js-project-standards-implementation-guide.md) — canonical tsgo, Biome, dev scripts, hooks, and Blacksmith/Vercel patterns.
+- [JS/Native Standards Rollout Plan](./docs/js-project-standards-rollout-plan.md) — phased rollout across active web/native JS projects.
+- [SHIP.md](./SHIP.md) — terse team punchlist for shipping projects.
 
 ## Installation
 

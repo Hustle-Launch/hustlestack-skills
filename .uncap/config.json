@@ -1,0 +1,19 @@
+{
+  "repoId": "r17a8c98gk8bfe1ywfhx9k28mh87ma0k",
+  "owner": "uncap_user",
+  "name": "hustlestack-skills",
+  "originType": "native",
+  "legacy": {
+    "hasGitHub": true,
+    "hasGit": true
+  },
+  "defaults": {
+    "file": "public",
+    "fragment": "public",
+    "issue": "public",
+    "pullRequest": "public",
+    "branch": "public",
+    "comment": "public"
+  },
+  "headSha": ""
+}
